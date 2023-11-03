@@ -15,10 +15,6 @@
 
 ## Development related changes
 
-<!-- How these changes affect the developers of this project - e.g. changes in testing or CI/CD. -->
-
-- Change 1.
-- ...
 
 ## Checklist:
 
